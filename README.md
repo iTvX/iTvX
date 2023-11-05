@@ -49,10 +49,13 @@
 
 ### 🧰 Tools
 
+![macOS Badge](https://img.shields.io/badge/macOS-999999?logo=apple&logoColor=white&style=flat)  
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)  
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)  
+![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat)  
+![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ_IDEA-FF0000?logo=intellijidea&logoColor=white&style=flat)  
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)  
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+
+
 
 
 
