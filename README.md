@@ -24,8 +24,8 @@
 
 <table>
 <tr><td>
-
 <!-- About me 关于我 -->
+
 ### 🤺 About Me
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
@@ -47,7 +47,7 @@
 
 
 
-🧰 Tools
+### 🧰 Tools
 
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)  
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)  
