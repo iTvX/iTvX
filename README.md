@@ -34,7 +34,7 @@
 <p>&emsp;&emsp;✝️ Christian, passionate about programming 💻, traveling ✈️, and reading 📖.</p>
 <p>&emsp;&emsp;💡 Enthusiastic about computer science and the IT industry, I aspire to be an outstanding developer.</p>
 <p>&emsp;&emsp;🌟 We are committed to making the world a better place by building perfect systems with reusable and extendable code.</p>
-<p><strong>&emsp;&emsp;🚀 We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p><strong>&emsp;&emsp;📖 "For wisdom will enter your heart, and knowledge will be pleasant to your soul." - Proverbs 2:10</strong></p>
 
 </td></tr>
 
