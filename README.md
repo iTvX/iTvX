@@ -30,11 +30,11 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
 
-<p>👋 Hello, I am a graduate from the University of Southern California.</p>
-<p>✝️ Christian, passionate about programming 💻, travel 🌍, and reading 📚.</p>
-<p>💡 I love computer science and the IT industry, aspiring to become an outstanding developer.</p>
-<p>🌟 We are making the world a better place by constructing perfect systems through the reuse and extension of code.</p>
-<p><strong>🚀 We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&nbsp;&nbsp;👋 Hello, I am a graduate from the University of Southern California.</p>
+<p>&nbsp;&nbsp;✝️ Christian, passionate about programming 💻, travel 🌍, and reading 📚.</p>
+<p>&nbsp;&nbsp;💡 I love computer science and the IT industry, aspiring to become an outstanding developer.</p>
+<p>&nbsp;&nbsp;🌟 We are making the world a better place by constructing perfect systems through the reuse and extension of code.</p>
+<p><strong>&nbsp;&nbsp;🚀 We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
 
